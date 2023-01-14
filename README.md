@@ -54,7 +54,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![WEB_SERVER](welcome.png)
+![Web_server](welcome.png)
 
 # RESULT:
 
